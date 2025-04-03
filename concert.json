@@ -1,0 +1,68 @@
+[
+    {
+        "category": "CONCERT",
+        "title": "Rap Game Showdown",
+        "description": "Les plus grands rappeurs du moment s'affrontent en live !",
+        "startDateTime": "2025-08-20T21:00:00",
+        "location": "Accor Arena, Paris",
+        "organizer": "Rap Nation",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "VIP", "price": 250000.0, "quantityAvailable": 100, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Golden Circle", "price": 180000.0, "quantityAvailable": 300, "purchaseLimitPerUser": 10, "saleEnabled": true },
+            { "name": "Regular", "price": 90000.0, "quantityAvailable": 800, "purchaseLimitPerUser": 20, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONCERT",
+        "title": "Afrobeat Explosion",
+        "description": "Un festival dédié aux meilleurs artistes Afrobeat du moment !",
+        "startDateTime": "2025-09-15T20:00:00",
+        "location": "Zénith, Toulouse",
+        "organizer": "Afro Vibes",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "VIP", "price": 200000.0, "quantityAvailable": 150, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Regular", "price": 80000.0, "quantityAvailable": 1000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONCERT",
+        "title": "Rock Legends Live",
+        "description": "Une soirée avec les plus grandes légendes du rock !",
+        "startDateTime": "2025-07-10T19:30:00",
+        "location": "Stade Pierre Mauroy, Lille",
+        "organizer": "Rock Nation",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "VIP", "price": 300000.0, "quantityAvailable": 200, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Standard", "price": 120000.0, "quantityAvailable": 5000, "purchaseLimitPerUser": 20, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONCERT",
+        "title": "Jazz & Blues Night",
+        "description": "Une soirée chill avec les plus grands noms du jazz et du blues.",
+        "startDateTime": "2025-10-15T20:00:00",
+        "location": "Salle Pleyel, Paris",
+        "organizer": "Smooth Events",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "VIP", "price": 220000.0, "quantityAvailable": 100, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Balcon", "price": 100000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONCERT",
+        "title": "Electro Sunrise Festival",
+        "description": "Une nuit entière de musique électro avec les plus grands DJ !",
+        "startDateTime": "2025-06-30T22:00:00",
+        "location": "Plage de Cannes",
+        "organizer": "Electro Nation",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass Nuit", "price": 180000.0, "quantityAvailable": 4000, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Pass VIP", "price": 350000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 2, "saleEnabled": true }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "category": "WEBINAR",
+        "title": "Les Nouvelles Tendances du Marketing Digital",
+        "description": "Un webinar sur les dernières innovations et tendances du marketing digital.",
+        "startDateTime": "2025-06-20T10:00:00",
+        "location": "En ligne",
+        "organizer": "Marketing Pros",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Accès Complet", "price": 25000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 3, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "WEBINAR",
+        "title": "Introduction à la Programmation Web",
+        "description": "Apprenez les bases du développement web lors de ce webinar.",
+        "startDateTime": "2025-07-10T14:00:00",
+        "location": "En ligne",
+        "organizer": "Code Academy",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Gratuite", "price": 0.0, "quantityAvailable": 200, "purchaseLimitPerUser": 1, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "WEBINAR",
+        "title": "Les Secrets de la Productivité à Distance",
+        "description": "Découvrez des astuces et outils pour être plus productif en travaillant à distance.",
+        "startDateTime": "2025-08-05T16:00:00",
+        "location": "En ligne",
+        "organizer": "Remote Work Experts",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Accès Standard", "price": 20000.0, "quantityAvailable": 300, "purchaseLimitPerUser": 3, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "WEBINAR",
+        "title": "Développement Personnel et Bien-être Mental",
+        "description": "Un webinar pour explorer des stratégies de bien-être mental et de développement personnel.",
+        "startDateTime": "2025-09-15T11:00:00",
+        "location": "En ligne",
+        "organizer": "Mindful Life",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Accès Gratuite", "price": 0.0, "quantityAvailable": 500, "purchaseLimitPerUser": 2, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "WEBINAR",
+        "title": "La Blockchain expliquée aux Débutants",
+        "description": "Comprendre les bases de la blockchain et comment elle change le monde. Ce webinar est destiné aux débutants.",
+        "startDateTime": "2025-10-20T15:00:00",
+        "location": "En ligne",
+        "organizer": "Crypto Learning",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Standard", "price": 30000.0, "quantityAvailable": 400, "purchaseLimitPerUser": 2, "saleEnabled": true }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "category": "AUTRE",
+        "title": "Exposition Art Contemporain",
+        "description": "Une exposition immersive mettant en avant les artistes contemporains les plus influents.",
+        "startDateTime": "2025-06-05T10:00:00",
+        "location": "Musée d'Art Moderne, Paris",
+        "organizer": "Art Vision",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Standard", "price": 50000.0, "quantityAvailable": 3000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "AUTRE",
+        "title": "Salon du Livre et de la Lecture",
+        "description": "Un salon qui rassemble des auteurs, des éditeurs et des passionnés de littérature.",
+        "startDateTime": "2025-07-01T08:00:00",
+        "location": "Paris Expo Porte de Versailles",
+        "organizer": "Livre et Culture",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass 3 Jours", "price": 120000.0, "quantityAvailable": 2000, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "AUTRE",
+        "title": "Festival de Feu d'Artifice",
+        "description": "Un spectacle pyrotechnique grandiose célébrant l'art du feu.",
+        "startDateTime": "2025-08-15T22:00:00",
+        "location": "Parc de la Villette, Paris",
+        "organizer": "Spectacles Pyrotechniques",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Générale", "price": 70000.0, "quantityAvailable": 5000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "AUTRE",
+        "title": "Marché de Noël de Strasbourg",
+        "description": "Un marché de Noël féérique avec des artisans locaux et des produits traditionnels.",
+        "startDateTime": "2025-12-01T10:00:00",
+        "location": "Place Broglie, Strasbourg",
+        "organizer": "Strasbourg Tourisme",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass Journalier", "price": 30000.0, "quantityAvailable": 5000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "AUTRE",
+        "title": "Bourse aux Vins de Bordeaux",
+        "description": "Un événement annuel pour découvrir les meilleurs vins de Bordeaux et de la région.",
+        "startDateTime": "2025-11-10T14:00:00",
+        "location": "Cité du Vin, Bordeaux",
+        "organizer": "Bordeaux Wine Association",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass Dégustation", "price": 100000.0, "quantityAvailable": 1500, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    }
+]

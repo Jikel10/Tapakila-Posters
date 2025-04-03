@@ -1,0 +1,66 @@
+[
+    {
+        "category": "SPORT",
+        "title": "Ligue des Champions - Finale",
+        "description": "La finale du plus grand championnat de football européen.",
+        "startDateTime": "2025-06-30T18:00:00",
+        "location": "Stade de Wembley, Londres",
+        "organizer": "UEFA",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "VIP", "price": 500000.0, "quantityAvailable": 100, "purchaseLimitPerUser": 2, "saleEnabled": true },
+            { "name": "Standard", "price": 150000.0, "quantityAvailable": 2000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "SPORT",
+        "title": "Tour de France 2025 - Étape Finale",
+        "description": "L'étape finale de la célèbre course cycliste, où le champion sera couronné.",
+        "startDateTime": "2025-07-25T09:00:00",
+        "location": "Champs-Élysées, Paris",
+        "organizer": "ASO",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass VIP", "price": 250000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Pass Général", "price": 100000.0, "quantityAvailable": 5000, "purchaseLimitPerUser": 15, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "SPORT",
+        "title": "Marathon de New York",
+        "description": "Le plus grand marathon du monde, avec des coureurs venus du monde entier.",
+        "startDateTime": "2025-11-01T07:00:00",
+        "location": "Central Park, New York",
+        "organizer": "New York Road Runners",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Générale", "price": 80000.0, "quantityAvailable": 10000, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "SPORT",
+        "title": "Finale de la Coupe du Monde de Rugby",
+        "description": "L'affrontement final des meilleures équipes de rugby du monde.",
+        "startDateTime": "2025-10-12T15:00:00",
+        "location": "Stade de France, Saint-Denis",
+        "organizer": "Rugby World Cup",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "VIP", "price": 350000.0, "quantityAvailable": 300, "purchaseLimitPerUser": 2, "saleEnabled": true },
+            { "name": "Général", "price": 120000.0, "quantityAvailable": 10000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "SPORT",
+        "title": "Open de Tennis de Roland Garros",
+        "description": "Le tournoi de tennis le plus prestigieux après Wimbledon.",
+        "startDateTime": "2025-05-25T09:00:00",
+        "location": "Roland Garros, Paris",
+        "organizer": "FFT",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass VIP", "price": 400000.0, "quantityAvailable": 200, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Pass Journée", "price": 100000.0, "quantityAvailable": 5000, "purchaseLimitPerUser": 15, "saleEnabled": true }
+        ]
+    }
+]

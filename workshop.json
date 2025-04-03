@@ -1,0 +1,92 @@
+[
+    {
+        "category": "WORKSHOP",
+        "title": "Coding for Beginners",
+        "description": "Apprenez les bases de la programmation dans un environnement interactif.",
+        "startDateTime": "2025-06-25T09:00:00",
+        "location": "Tech Lab, Paris",
+        "organizer": "Dev Bootcamp",
+        "status": "PUBLISHED",
+        "tickets": [
+            {
+                "name": "Entrée Standard",
+                "price": 40000.0,
+                "quantityAvailable": 300,
+                "purchaseLimitPerUser": 3,
+                "saleEnabled": true
+            }
+        ]
+    },
+    {
+        "category": "WORKSHOP",
+        "title": "Création d'Applications Mobiles",
+        "description": "Développez vos premières applications mobiles pour Android et iOS.",
+        "startDateTime": "2025-07-10T13:00:00",
+        "location": "Mobile Dev Hub, Lyon",
+        "organizer": "Code Factory",
+        "status": "PUBLISHED",
+        "tickets": [
+            {
+                "name": "Entrée Standard",
+                "price": 60000.0,
+                "quantityAvailable": 200,
+                "purchaseLimitPerUser": 2,
+                "saleEnabled": true
+            }
+        ]
+    },
+    {
+        "category": "WORKSHOP",
+        "title": "Introduction à l'Intelligence Artificielle",
+        "description": "Comprenez les bases de l'IA et apprenez à l'intégrer dans vos projets.",
+        "startDateTime": "2025-08-05T10:00:00",
+        "location": "AI Center, Marseille",
+        "organizer": "AI Learning",
+        "status": "PUBLISHED",
+        "tickets": [
+            {
+                "name": "Pass Complet",
+                "price": 70000.0,
+                "quantityAvailable": 150,
+                "purchaseLimitPerUser": 3,
+                "saleEnabled": true
+            }
+        ]
+    },
+    {
+        "category": "WORKSHOP",
+        "title": "Web Design & UX/UI Fundamentals",
+        "description": "Maîtrisez les concepts de base du design web et de l'UX/UI pour créer des sites intuitifs.",
+        "startDateTime": "2025-09-15T11:00:00",
+        "location": "Design Studio, Bordeaux",
+        "organizer": "Creative Web Design",
+        "status": "PUBLISHED",
+        "tickets": [
+            {
+                "name": "Entrée Standard",
+                "price": 50000.0,
+                "quantityAvailable": 250,
+                "purchaseLimitPerUser": 4,
+                "saleEnabled": true
+            }
+        ]
+    },
+    {
+        "category": "WORKSHOP",
+        "title": "Mastering Blockchain Development",
+        "description": "Approfondissez vos connaissances du développement Blockchain et créez des projets décentralisés.",
+        "startDateTime": "2025-11-12T14:00:00",
+        "location": "Dev Hub, Berlin",
+        "organizer": "Blockchain Devs",
+        "status": "PUBLISHED",
+        "tickets": [
+            {
+                "name": "Entrée Standard",
+                "price": 80000.0,
+                "quantityAvailable": 200,
+                "purchaseLimitPerUser": 3,
+                "saleEnabled": true
+            }
+        ]
+    }
+]

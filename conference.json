@@ -1,0 +1,63 @@
+[
+    {
+        "category": "CONFERENCE",
+        "title": "Tech Future 2025",
+        "description": "Les tendances et innovations qui vont marquer le futur du numérique.",
+        "startDateTime": "2025-06-12T10:00:00",
+        "location": "Los Angeles",
+        "organizer": "Tech Innovators",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass Complet", "price": 150000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Jour Unique", "price": 70000.0, "quantityAvailable": 1000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONFERENCE",
+        "title": "Intelligence Artificielle et Avenir",
+        "description": "Débat sur l'impact de l'IA sur le monde de demain.",
+        "startDateTime": "2025-09-22T14:00:00",
+        "location": "Université de Lyon",
+        "organizer": "AI Thinkers",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Standard", "price": 50000.0, "quantityAvailable": 700, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONFERENCE",
+        "title": "Economie et Crises Globales",
+        "description": "Comprendre les crises économiques et comment s’y préparer.",
+        "startDateTime": "2025-07-08T09:00:00",
+        "location": "Centre des Finances, Bruxelles",
+        "organizer": "Global Economy Forum",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Accès Conférence", "price": 80000.0, "quantityAvailable": 600, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONFERENCE",
+        "title": "Climat et Énergies Renouvelables",
+        "description": "Discussion sur les défis climatiques et les solutions énergétiques durables.",
+        "startDateTime": "2025-10-15T11:00:00",
+        "location": "Hôtel de Ville, Genève",
+        "organizer": "Green Future Association",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Participation", "price": 60000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "CONFERENCE",
+        "title": "Blockchain et Cryptomonnaies",
+        "description": "Le futur de la finance décentralisée expliqué par des experts.",
+        "startDateTime": "2025-12-05T16:00:00",
+        "location": "Tech Hub, Berlin",
+        "organizer": "Crypto World Summit",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Entrée Standard", "price": 90000.0, "quantityAvailable": 400, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    }
+]

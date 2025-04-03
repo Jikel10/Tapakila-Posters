@@ -1,0 +1,64 @@
+[
+    {
+        "category": "FESTIVAL",
+        "title": "Festival de Musique du Monde",
+        "description": "Un festival qui rassemble des artistes du monde entier pour une célébration de la musique et des cultures.",
+        "startDateTime": "2025-06-25T12:00:00",
+        "location": "Parc des Expositions, Paris",
+        "organizer": "Global Music Festival",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass 3 Jours", "price": 200000.0, "quantityAvailable": 1000, "purchaseLimitPerUser": 5, "saleEnabled": true },
+            { "name": "Pass 1 Jour", "price": 80000.0, "quantityAvailable": 3000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "FESTIVAL",
+        "title": "Festival du Cinéma Indépendant",
+        "description": "Célébration des films indépendants avec projections, conférences et rencontres avec les réalisateurs.",
+        "startDateTime": "2025-07-15T09:00:00",
+        "location": "Cinéma Grand Rex, Paris",
+        "organizer": "Indie Film Lovers",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass Complet", "price": 150000.0, "quantityAvailable": 500, "purchaseLimitPerUser": 3, "saleEnabled": true },
+            { "name": "Pass Journée", "price": 50000.0, "quantityAvailable": 1500, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "FESTIVAL",
+        "title": "Festival de Danse Contemporaine",
+        "description": "Un événement qui réunit des danseurs du monde entier pour célébrer la danse contemporaine sous toutes ses formes.",
+        "startDateTime": "2025-08-01T10:00:00",
+        "location": "Théâtre National, Lyon",
+        "organizer": "Contemporary Dance Collective",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Accès Général", "price": 100000.0, "quantityAvailable": 800, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "FESTIVAL",
+        "title": "Festival des Arts de Rue",
+        "description": "Un festival de performances artistiques en plein air, réunissant des spectacles de rue, de théâtre et de musique.",
+        "startDateTime": "2025-09-10T11:00:00",
+        "location": "Place de la République, Marseille",
+        "organizer": "Urban Art Festival",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass 2 Jours", "price": 70000.0, "quantityAvailable": 1000, "purchaseLimitPerUser": 5, "saleEnabled": true }
+        ]
+    },
+    {
+        "category": "FESTIVAL",
+        "title": "Festival de Cuisine et Gastronomie",
+        "description": "Un festival pour découvrir des chefs de renom, des ateliers culinaires et des dégustations de plats du monde entier.",
+        "startDateTime": "2025-10-05T08:00:00",
+        "location": "Parc des Expositions, Lyon",
+        "organizer": "Gastronomy Lovers",
+        "status": "PUBLISHED",
+        "tickets": [
+            { "name": "Pass 1 Jour", "price": 50000.0, "quantityAvailable": 2000, "purchaseLimitPerUser": 10, "saleEnabled": true }
+        ]
+    }
+]
